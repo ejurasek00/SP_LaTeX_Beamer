@@ -1,7 +1,7 @@
 #Structure
 
 The project is divided in 2 directories; one for images and one for the .bib file.
-
+```
 ├── images
 │   ├── after_egypt.png
 │   ├── battle_lines.png
@@ -59,7 +59,7 @@ The project is divided in 2 directories; one for images and one for the .bib fil
 └── TempleOS_SP_4IZ552_jure01.pdf
 
 3 directories, 53 files
-
+```
 
 #Notice
 
